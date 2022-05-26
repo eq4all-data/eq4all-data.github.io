@@ -1,0 +1,4 @@
+# directories marked with "nohash"
+nohash_*/
+
+!.gitkeep
